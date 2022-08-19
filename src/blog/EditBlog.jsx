@@ -51,7 +51,7 @@ const CompEditBlog =()=>{
          type="text"
          className="form-control"/>
         </div>
-        <button type="submit" className="btn btn-primary">STORE</button>
+        <button type="submit" className="btn btn-primary">STORES</button>
     </form>
  </div>
 )
